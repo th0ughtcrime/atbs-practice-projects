@@ -1,7 +1,7 @@
 # ATBS Ch. 4
 # Comma code
 #
-# The comma_code() function takes a non-empty list as an argument and returns
+# The 'comma_code()' function takes a non-empty list as an argument and returns
 # a string with the list's values separated by commas and an 'and' before the
 # last element.
 
